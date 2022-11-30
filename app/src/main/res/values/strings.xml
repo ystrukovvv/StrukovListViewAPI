@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">StrukovListViewAPI</string>
+    <string name="button">получить</string>
+</resources>
